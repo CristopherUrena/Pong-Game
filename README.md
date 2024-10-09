@@ -1,0 +1,1 @@
+This is a continuing project that I am working on to design a pong game. this project uses HTML, CSS and Javascript to bring the nostalgic old pong game back. I am really intersted on how it'll turn out. 
